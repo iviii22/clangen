@@ -5116,5 +5116,73 @@
                 "path": "resources/images/buttons/filters_tab_hover.png"
             }
         }
+    },
+    "#nursery_button": {
+        "prototype": "#image_button",
+        "images": {
+            "normal_image": {
+                "path": "resources/images/buttons/nursery.png"
+            },
+            "hovered_image": {
+                "path": "resources/images/buttons/nursery_hover.png"
+            },
+            "selected_image": {
+                "path": "resources/images/buttons/nursery.png"
+            },
+            "disabled_image": {
+                "path": "resources/images/buttons/nursery_unavailable.png"
+            }
+        }
+    },
+    "#add_cat_nursery_button": {
+        "prototype": "#image_button",
+        "images": {
+            "normal_image": {
+                "path": "resources/images/buttons/add_cat_nursery.png"
+            },
+            "hovered_image": {
+                "path": "resources/images/buttons/add_cat_nursery_hover.png"
+            },
+            "selected_image": {
+                "path": "resources/images/buttons/add_cat_nursery.png"
+            },
+            "disabled_image": {
+                "path": "resources/images/buttons/add_cat_nursery_unavailable.png"
+            }
+        }
+    },
+    "#begin_playtime_button": {
+        "prototype": "#image_button",
+        "images": {
+            "normal_image": {
+                "path": "resources/images/buttons/begin_playtime.png"
+            },
+            "hovered_image": {
+                "path": "resources/images/buttons/begin_playtime_hover.png"
+            },
+            "selected_image": {
+                "path": "resources/images/buttons/begin_playtime.png"
+            },
+            "disabled_image": {
+                "path": "resources/images/buttons/begin_playtime_unavailable.png"
+            }
+        }
+    },
+    "#remove_button": {
+        "prototype": "#image_button",
+        "images": {
+            "normal_image": {
+                "path": "resources/images/buttons/remove.png"
+            },
+            "hovered_image": {
+                "path": "resources/images/buttons/remove_hover.png"
+            },
+            "selected_image": {
+                "path": "resources/images/buttons/remove.png"
+            },
+            "disabled_image": {
+                "path": "resources/images/buttons/remove_unavailable.png"
+            }
+        }
     }
 }
